@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @stillstorm
-- 👀 I’m interested in Game Creation
-- 🌱 I’m currently learning Godot and Unity
-- 💞️ I’m looking to collaborate on create new game
+- 👋 Hi, I'm @stillstorm
+- I'm a software developer which focus on Java and Node.js
+- Also I’m interested in Game Creation due to I'm currently learning Godot and Unity
 - 📫 How to reach me [Twitter](https://twitter.com/stillmini?s=09)
 
 <!---
